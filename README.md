@@ -1,7 +1,5 @@
 <h2 align="center">
-  Hello 👋, I'm <strong>Elias</strong>, a curious mind from Indonesia 🌏.  
-  I love exploring the virtual realm, building intelligent systems, and taking on thrilling digital challenges.  
-  It’s a pleasure to meet y'all — let’s create something legendary!
+  Hey 👋 I’m Elias — a curious soul from Indonesia 🌏. I build smart systems, explore the digital world, and chase what’s next. Glad to meet y’all — let’s make something legendary ⚡
 </h2>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/25hLg0nyQlUAAAAd/tying-the.gif"  />

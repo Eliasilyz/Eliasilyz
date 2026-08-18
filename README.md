@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Irvan%20Farael%20Hanafi&animation=twinkling&desc=Backend%20Dev%20|%20Scalable%20Systems&fontAlignY=35"/>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
+
+<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
+
 <!--ENDS_HERE_QUOTE_README-->
 
 <p align="center">
@@ -68,13 +70,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eliasilyz&bg_color=0D1117&color=67E8F9&line=67E8F9&point=2ECC71&area=true&hide_border=true" width="97%" alt="Activity Graph" />
   </a>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/examples/github-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/examples/github-light.svg">
-    <img alt="Snake eating contributions" src="./assets/examples/github-dark.svg" width="100%">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
 </div>
 
 ---
@@ -82,11 +82,13 @@
 <h2>🕒 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
-- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
-- 🔨 Pushed 0 commit(s) to [Eliasilyz/EliasDex-2](https://github.com/Eliasilyz/EliasDex-2)
-- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
-- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
+<table>
+<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>6h ago</sub></td></tr>
+<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>12h ago</sub></td></tr>
+<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>18h ago</sub></td></tr>
+<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>1d ago</sub></td></tr>
+<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>1d ago</sub></td></tr>
+</table>
 <!--END_SECTION:activity-->
 
 ---

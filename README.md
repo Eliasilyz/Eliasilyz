@@ -15,6 +15,8 @@
   <a href="https://www.youtube.com/@irvanfaraelhanafi" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.instagram.com/faraelh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </p>
+
+  ![](https://komarev.com/ghpvc/?username=OnlyRein)
 </div>
 
 ---

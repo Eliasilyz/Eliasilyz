@@ -40,7 +40,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.anilist.svg
           plugin_anilist: yes
-          plugin_anilist_user: .user.anilist # Ganti dengan username AniList kamu jika ada
+          plugin_anilist_user: elyasfarel # Ganti dengan username AniList kamu jika ada
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2

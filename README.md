@@ -53,15 +53,21 @@
 ---
 
 <div align="center">
-  <h3>⚡ GitHub Analytics</h3>
-  <!-- Stats & Top Languages (Pakai Extended Mirror) -->
+  <h3>⚡ GitHub Analytics & Metrics</h3>
+
+  <!-- Lowlighter Metrics SVG -->
+  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.svg" width="100%" alt="Metrics" />
+
+  <br/><br/>
+
+  <!-- Stats & Top Languages -->
   <a href="https://github.com/Eliasilyz">
     <img src="https://github-stats-extended.vercel.app/api?username=Eliasilyz&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&text_color=9CA3AF&icon_color=67E8F9" width="48%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Eliasilyz">
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eliasilyz&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=9CA3AF&hide=html,css" width="48%" alt="Top Languages" />
   </a>
-<a href="https://github.com/Eliasilyz">
+  <a href="https://github.com/Eliasilyz">
     <img src="https://komarev.com/ghpvc/?username=OnlyRein&color=63a4ff&style=for-the-badge" width="30%" alt="GitHub Stats" />
   </a>
   <br/><br/>
@@ -79,17 +85,11 @@
 
 ---
 
-<h2>🕒 Recent Activity</h2>
-
-<!--START_SECTION:activity-->
-<table>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>6h ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>12h ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>18h ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>1d ago</sub></td></tr>
-</table>
-<!--END_SECTION:activity-->
+<h2>💹 Stock Market & Interests</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.stocks.svg" width="49%" alt="IHSG Stock Price" />
+  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.anilist.svg" width="49%" alt="AniList Activity" />
+</div>
 
 ---
 

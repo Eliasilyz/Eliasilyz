@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Irvan%20Farael%20Hanafi&animation=twinkling&desc=Backend%20Dev%20|%20Scalable%20Systems&fontAlignY=35"/>
+  <img src="https://files.catbox.moe/8qzbde.png"/>
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
@@ -17,6 +17,7 @@
 </p>
 
   ![](https://komarev.com/ghpvc/?username=OnlyRein)
+  
 </div>
 
 ---

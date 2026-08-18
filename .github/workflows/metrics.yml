@@ -16,20 +16,20 @@ jobs:
           filename: metrics.svg
           base: header, activity, community, metadata
           
-          # Achievements & Featured Repos
+          # Achievements & Featured Repos (Secrets di-off biar ga error)
           plugin_achievements: yes
-          plugin_achievements_secrets: yes
+          plugin_achievements_secrets: no
           plugin_achievements_threshold: C
           
           plugin_repositories: yes
           plugin_repositories_featured: Eliasilyz/Eliasilyz
           
-          # Coding Habits
+          # Coding Habits (Menggunakan data standar tanpa query berat yang bikin error)
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no  # Matikan chart ini karena ini sumber Unexpected Error di SVG utama!
 
       - uses: lowlighter/metrics@latest
         with:

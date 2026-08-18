@@ -2,94 +2,90 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Irvan%20Farael%20Hanafi&animation=twinkling&desc=Backend%20Dev%20|%20Scalable%20Systems&fontAlignY=35"/>
 
 <!--STARTS_HERE_QUOTE_README-->
-
 <i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
-
 <!--ENDS_HERE_QUOTE_README-->
 
+<br/>
+
 <p align="center">
-<a href="https://discordapp.com/users/1049584848634912768" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%230077B5.svg?&style=flat-square&logo=discord&logoColor=white" alt="Discord"></a> 
-<a href="https://www.linkedin.com/in/farel-hanafi/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-<a href="https://www.farelhanafi.my.id/" target="_blank">
-<img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> 
-<a href="https://www.tiktok.com/@faraelh_" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a> 
-<a href="https://www.youtube.com/@irvanfaraelhanafi" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://www.instagram.com/faraelh_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a> 
+  <a href="https://discordapp.com/users/1049584848634912768" target="_blank"><img src="https://img.shields.io/badge/Discord-%230077B5.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+  <a href="https://www.linkedin.com/in/farel-hanafi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.farelhanafi.my.id/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website"></a> 
+  <a href="https://www.tiktok.com/@faraelh_" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a> 
+  <a href="https://www.youtube.com/@irvanfaraelhanafi" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/faraelh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </p>
 </div>
 
 ---
 
+### 🧰 Tech Stack & Infrastructure
+
 <div align="center">
-  <h3>🧰 Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nextjs,mongodb,postgres,linux,git,vite,react,nextjs,bun,nginx,nuxtjs,express,go,postgres,mysql,ai&perline=10" />
-
-### 🎮 Minecraft Server
-
-<p align="center">
-  <!-- Core Networks & Infrastructure -->
-  <img src="https://img.shields.io/badge/Velocity_Proxy-111827?style=for-the-badge&logo=fastapi&logoColor=38BDF8" alt="Velocity Proxy Setup" />
-  <img src="https://img.shields.io/badge/Pterodactyl_Panel-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Pterodactyl Panel" />
-  <img src="https://img.shields.io/badge/Linux_SysAdmin-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux System Administration" />
-
-  <!-- Plugin Dev & Scripting -->
-  <img src="https://img.shields.io/badge/Paper_API-111827?style=for-the-badge&logo=papermc&logoColor=F87171" alt="Paper API Plugin Development" />
-  <img src="https://img.shields.io/badge/Skript_Logic-111827?style=for-the-badge&logo=codefactor&logoColor=67E8F9" alt="Skript Development" />
-
-  <!-- Optimization & Security -->
-  <img src="https://img.shields.io/badge/Performance_Tuning-111827?style=for-the-badge&logo=speedtest&logoColor=34D399" alt="Spark & JVM Profiling" />
-  <img src="https://img.shields.io/badge/LuckPerms_Architecture-111827?style=for-the-badge&logo=keybase&logoColor=A855F7" alt="LuckPerms Infrastructure" />
-  <img src="https://img.shields.io/badge/Cross_Server_Sync-111827?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis & MySQL Sync" />
-</p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,nextjs,mongodb,postgres,linux,git,vite,react,bun,nginx,express,go,mysql&perline=8" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Velocity_Proxy-111827?style=flat-square&logo=fastapi&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Pterodactyl_Panel-111827?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux_SysAdmin-111827?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Paper_API-111827?style=flat-square&logo=papermc&logoColor=F87171" />
+  <img src="https://img.shields.io/badge/Redis_Sync-111827?style=flat-square&logo=redis&logoColor=DC382D" />
 </div>
 
 ---
 
+### ⚡ Overview & Analytics
+
 <div align="center">
-  <h3>⚡ GitHub Analytics & Metrics</h3>
-
-  <!-- Lowlighter Metrics SVG -->
-  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.svg" width="100%" alt="Metrics" />
-
+  <!-- Metrics SVG Utama -->
+  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.svg" width="100%" alt="GitHub Metrics" />
   <br/><br/>
 
-  <!-- Stats & Top Languages -->
+  <!-- Grid Stats & Languages -->
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Eliasilyz">
+          <img src="https://github-stats-extended.vercel.app/api?username=Eliasilyz&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&text_color=9CA3AF&icon_color=67E8F9" width="100%" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Eliasilyz">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eliasilyz&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=9CA3AF&hide=html,css" width="100%" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Activity Graph -->
   <a href="https://github.com/Eliasilyz">
-    <img src="https://github-stats-extended.vercel.app/api?username=Eliasilyz&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&text_color=9CA3AF&icon_color=67E8F9" width="48%" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Eliasilyz">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Eliasilyz&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=9CA3AF&hide=html,css" width="48%" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/Eliasilyz">
-    <img src="https://komarev.com/ghpvc/?username=OnlyRein&color=63a4ff&style=for-the-badge" width="30%" alt="GitHub Stats" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eliasilyz&bg_color=0D1117&color=67E8F9&line=67E8F9&point=2ECC71&area=true&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
   <br/><br/>
 
-  <a href="https://github.com/Eliasilyz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eliasilyz&bg_color=0D1117&color=67E8F9&line=67E8F9&point=2ECC71&area=true&hide_border=true" width="97%" alt="Activity Graph" />
-  </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph.svg">
-  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph.svg">
-</picture>
+  <!-- Contribution Game Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph.svg">
+    <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 ---
 
-<h2>💹 Stock Market & Interests</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.stocks.svg" width="49%" alt="IHSG Stock Price" />
-  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.anilist.svg" width="49%" alt="AniList Activity" />
-</div>
+### 📈 Market & Interests
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <b>📉 IHSG Index</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.stocks.svg" width="100%" alt="IHSG Stock Price" />
+    </td>
+    <td width="50%" align="center">
+      <b>🌸 AniList Activity</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.anilist.svg" width="100%" alt="AniList Activity" />
+    </td>
+  </tr>
+</table>
 
 ---
 

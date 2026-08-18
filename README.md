@@ -71,9 +71,9 @@
   </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/galaga-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph.svg">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/output/bomberman-contribution-graph.svg">
 </picture>
 </div>
 

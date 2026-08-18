@@ -39,7 +39,7 @@
 
 <div align="center">
   <!-- Metrics SVG Utama -->
-  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.svg" width="100%" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/refs/heads/main/metrics.svg" width="100%" alt="GitHub Metrics" />
   <br/><br/>
 
   <!-- Grid Stats & Languages -->

@@ -48,4 +48,5 @@ jobs:
           filename: metrics.stocks.svg
           base: ""
           plugin_stocks: yes
+          plugin_stocks_token: ${{ secrets.STOCK_TOKEN }}
           plugin_stocks_stocks: ^JKSE

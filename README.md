@@ -83,38 +83,38 @@
 <h2>⌚ WakaTime Stats</h2>
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%202%20mins-blue?style=flat)
 
-**I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                285 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 %
-🌆 Daytime                336 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 %
-🌃 Evening                434 commits         ████████░░░░░░░░░░░░░░░░░   33.44 %
-🌙 Night                  243 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 %
+🌞 Morning                265 commits         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+🌆 Daytime                318 commits         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+🌃 Evening                430 commits         █████████░░░░░░░░░░░░░░░░   34.32 % 
+🌙 Night                  240 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages:
-TypeScript               3 hrs 1 min         ██████████████░░░░░░░░░░░   57.81 %
-JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-PHP                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+💬 Programming Languages: 
+TypeScript               3 hrs 1 min         ██████████████░░░░░░░░░░░   57.81 % 
+JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+PHP                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
-🔥 Editors:
-VS Code                  3 hrs 50 mins       ██████████████████░░░░░░░   73.53 %
-Antigravity IDE          1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.23 %
-Antigravity Desktop      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+🔥 Editors: 
+VS Code                  3 hrs 50 mins       ██████████████████░░░░░░░   73.53 % 
+Antigravity IDE          1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Antigravity Desktop      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
-🤖 **AI Coding This Week**
+🤖 **AI Coding This Week** 
 
 ```text
 ⏱ AI Coding Time: 3 hrs 5 mins (59.08%)
@@ -127,10 +127,10 @@ Agent                    1 min               ░░░░░░░░░░░�
 
 🧠 18 AI Sessions, 70 AI Prompts
 
-Cursor                   2,151 lines         ██████████████░░░░░░░░░░░   54.11 %
-Composer                 1,112 lines         ███████░░░░░░░░░░░░░░░░░░   27.97 %
-Gemini                   574 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.44 %
-Sonnet                   138 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Cursor                   2,151 lines         ██████████████░░░░░░░░░░░   54.11 % 
+Composer                 1,112 lines         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Gemini                   574 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Sonnet                   138 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.27% of written lines came from AI
@@ -139,22 +139,24 @@ Sonnet                   138 lines           █░░░░░░░░░░�
 🚀 High AI Trust — 6.01% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   38.00 %
-TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 %
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+JavaScript               19 repos            ██████████░░░░░░░░░░░░░░░   38.00 % 
+TypeScript               17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/assets/bar_graph.png)
 
-Last Updated on 18/08/2026 06:27:39 UTC
 
+ Last Updated on 18/08/2026 16:13:42 UTC
 <!--END_SECTION:waka-->
 
 ---

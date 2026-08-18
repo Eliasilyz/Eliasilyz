@@ -16,20 +16,33 @@ jobs:
           filename: metrics.svg
           base: header, activity, community, metadata
           
-          # Achievements & Featured Repos (Secrets di-off biar ga error)
+          # Achievements & Featured Repos
           plugin_achievements: yes
           plugin_achievements_secrets: no
           plugin_achievements_threshold: C
           
           plugin_repositories: yes
-          plugin_repositories_featured: Eliasilyz/Eliasilyz
+          plugin_repositories_featured: Eliasilyz/EliasDex2
           
-          # Coding Habits (Menggunakan data standar tanpa query berat yang bikin error)
+          # Coding Habits
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: no  # Matikan chart ini karena ini sumber Unexpected Error di SVG utama!
+          plugin_habits_charts: no
+
+          # 🧑‍🤝‍🧑 People Section (Followers & Following)
+          plugin_people: yes
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          
+          # 🎼 Music Activity (Recently Listened & Random Tracks from Playlist)
+          plugin_music: yes
+          plugin_music_provider: youtube
+          plugin_music_mode: recent, playlist  # Aktifkan baru diputar + acak playlist sekaligus
+          plugin_music_playlist: https://www.youtube.com/playlist?list=PLYERoMfjs6Tc # Ganti pake URL playlist YT kamu
+          plugin_music_limit: 4
 
       - uses: lowlighter/metrics@latest
         with:
@@ -39,5 +52,5 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: elyasfarel
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_limit: 2
+          plugin_anilist_sections: favorites,characters
+          plugin_anilist_limit: 5

@@ -72,20 +72,11 @@
 
 ---
 
-### 📈 Market & Interests
+### 🌸 AniList Favorites
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <b>📉 IHSG Index</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.stocks.svg" width="100%" alt="IHSG Stock Price" />
-    </td>
-    <td width="50%" align="center">
-      <b>🌸 AniList Activity</b><br/><br/>
-      <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.anilist.svg" width="100%" alt="AniList Activity" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.anilist.svg" width="100%" alt="AniList Activity" />
+</div>
 
 ---
 

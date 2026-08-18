@@ -84,13 +84,11 @@
 <h2>🕒 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-<table>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>6h ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>12h ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>18h ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>1d ago</sub></td></tr>
-<tr><td align="center">🔨</td><td align="left">Pushed <b>0</b> commit(s) to <a href="https://github.com/Eliasilyz/Eliasilyz"><code>Eliasilyz/Eliasilyz</code></a></td><td align="right"><sub>1d ago</sub></td></tr>
-</table>
+- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
+- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
+- 🔨 Pushed 0 commit(s) to [Eliasilyz/EliasDex-2](https://github.com/Eliasilyz/EliasDex-2)
+- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
+- 🔨 Pushed 0 commit(s) to [Eliasilyz/Eliasilyz](https://github.com/Eliasilyz/Eliasilyz)
 <!--END_SECTION:activity-->
 
 ---

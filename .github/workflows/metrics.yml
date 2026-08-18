@@ -48,4 +48,4 @@ jobs:
           plugin_anilist_user: elyasfarel
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites,characters
-          plugin_anilist_limit: 5
+          plugin_anilist_limit: 3

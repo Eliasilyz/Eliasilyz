@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Farel Hanafi — Links</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #0B0D0F;
+    --surface: #14171A;
+    --border: #23272B;
+    --text: #E8E6E1;
+    --muted: #7A8087;
+    --accent: #7CFF9B;
+  }
+
+  *{ margin:0; padding:0; box-sizing:border-box; }
+
+  body{
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'JetBrains Mono', monospace;
+    min-height: 100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding: 32px 16px;
+    background-image:
+      radial-gradient(circle at 20% 15%, rgba(124,255,155,0.06), transparent 40%),
+      radial-gradient(circle at 80% 85%, rgba(124,255,155,0.04), transparent 40%);
+  }
+
+  .card{
+    width:100%;
+    max-width: 420px;
+  }
+
+  .status{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    font-size:12px;
+    color: var(--muted);
+    margin-bottom: 28px;
+    letter-spacing: 0.02em;
+  }
+
+  .dot{
+    width:7px; height:7px;
+    border-radius:50%;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    animation: pulse 2s ease-in-out infinite;
+  }
+
+  @keyframes pulse{
+    0%,100%{ opacity:1; }
+    50%{ opacity:0.35; }
+  }
+
+  .avatar{
+    width:64px; height:64px;
+    border-radius:14px;
+    background: linear-gradient(135deg, #1B1F23, #0F1113);
+    border:1px solid var(--border);
+    display:flex; align-items:center; justify-content:center;
+    font-family:'Space Grotesk', sans-serif;
+    font-weight:700;
+    font-size:22px;
+    color: var(--accent);
+    margin-bottom:20px;
+  }
+
+  h1{
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight:700;
+    font-size: 28px;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+  }
+
+  .tagline{
+    color: var(--muted);
+    font-size: 13.5px;
+    line-height:1.6;
+    margin-bottom: 34px;
+    max-width: 34ch;
+  }
+
+  .tagline span{ color: var(--accent); }
+
+  .links{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+  }
+
+  .link{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    background: var(--surface);
+    border:1px solid var(--border);
+    border-radius:10px;
+    padding:15px 18px;
+    text-decoration:none;
+    color: var(--text);
+    font-size:14px;
+    transition: border-color .15s ease, transform .15s ease, background .15s ease;
+    position:relative;
+    overflow:hidden;
+  }
+
+  .link:hover{
+    border-color: var(--accent);
+    background:#171B1E;
+    transform: translateX(2px);
+  }
+
+  .link .label{
+    display:flex;
+    align-items:center;
+    gap:12px;
+  }
+
+  .link .prefix{
+    color: var(--accent);
+    opacity:0.7;
+    font-size:13px;
+  }
+
+  .link .arrow{
+    color: var(--muted);
+    transition: transform .15s ease, color .15s ease;
+    font-size:14px;
+  }
+
+  .link:hover .arrow{
+    transform: translateX(3px);
+    color: var(--accent);
+  }
+
+  footer{
+    margin-top: 34px;
+    display:flex;
+    justify-content:space-between;
+    font-size:11px;
+    color: var(--muted);
+    letter-spacing:0.03em;
+  }
+
+  #clock{ color: var(--text); }
+</style>
+</head>
+<body>
+
+  <div class="card">
+    <div class="status"><span class="dot"></span> ONLINE — BUILDING SOMETHING</div>
+
+    <div class="avatar">FR</div>
+    <h1>Irvan Farel Hanafi</h1>
+    <p class="tagline">Software dev &amp; bot builder. Kadang ngoding sambil ngeliatin candlestick <span>[trading bots + web apps]</span>.</p>
+
+    <div class="links">
+      <a class="link" href="https://github.com/Eliasilyz" target="_blank" rel="noopener">
+        <span class="label"><span class="prefix">01</span> GitHub</span>
+        <span class="arrow">→</span>
+      </a>
+      <a class="link" href="https://farelhanafi.my.id" target="_blank" rel="noopener">
+        <span class="label"><span class="prefix">02</span> Portfolio</span>
+        <span class="arrow">→</span>
+      </a>
+      <a class="link" href="https://twitter.com/" target="_blank" rel="noopener">
+        <span class="label"><span class="prefix">03</span> X / Twitter</span>
+        <span class="arrow">→</span>
+      </a>
+      <a class="link" href="https://t.me/ffarelh" target="_blank" rel="noopener">
+        <span class="label"><span class="prefix">04</span> Telegram</span>
+        <span class="arrow">→</span>
+      </a>
+      <a class="link" href="mailto:farellh12@gmail.com">
+        <span class="label"><span class="prefix">05</span> Email</span>
+        <span class="arrow">→</span>
+      </a>
+    </div>
+
+    <footer>
+      <span>Ponorogo, ID</span>
+      <span id="clock">--:--:--</span>
+    </footer>
+  </div>
+
+<script>
+  function tick(){
+    const now = new Date();
+    const hh = String(now.getHours()).padStart(2,'0');
+    const mm = String(now.getMinutes()).padStart(2,'0');
+    const ss = String(now.getSeconds()).padStart(2,'0');
+    document.getElementById('clock').textContent = `${hh}:${mm}:${ss}`;
+  }
+  tick();
+  setInterval(tick, 1000);
+</script>
+
+</body>
+</html>

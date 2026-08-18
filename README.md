@@ -87,11 +87,12 @@
 <!--START_SECTION:blog-->
 <!--END_SECTION:blog-->
 
----W
+---
 
 <div align="center">
   <h3>💝 Support</h3>
-  <a href="https://saweria.co/rein122"><img src="https://img.shields.io/badge/Saweria-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://saweria.co/rein122"><img src="https://img.shields.io/badge/Saweria-FF5E5B?style=for-the-badge&logo=saweria&logoColor=white"/></a>
+  <a href="https://ko-fi.com/eliasilyz"><img src="https://img.shields.io/badge/ko_fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
 
 <footer align="center">

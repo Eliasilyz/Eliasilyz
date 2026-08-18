@@ -49,4 +49,4 @@ jobs:
           base: ""
           plugin_stocks: yes
           plugin_stocks_token: ${{ secrets.STOCK_TOKEN }}
-          plugin_stocks_stocks: ^JKSE
+          plugin_stocks_stocks: BTC-USD, ETH-USD # Crypto / US Market Only

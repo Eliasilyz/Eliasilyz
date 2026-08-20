@@ -30,11 +30,17 @@ jobs:
           plugin_music_provider: youtube
           plugin_music_mode: playlist
           plugin_music_playlist: https://music.youtube.com/playlist?list=PLYERoMfjs6Tc
-          plugin_music_limit: 4
+          plugin_music_limit: 1
 
           plugin_leetcode: yes
           plugin_leetcode_user: eliasilyz
           plugin_leetcode_sections: solved, skills, recent
+
+          
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

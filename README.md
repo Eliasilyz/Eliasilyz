@@ -83,13 +83,6 @@
 
 ---
 
-<h2>📝 Latest Blog Posts</h2>
-
-<!--START_SECTION:blog-->
-<!--END_SECTION:blog-->
-
----
-
 <div align="center">
   <h3>💝 Support</h3>
   <a href="https://saweria.co/rein122"><img src="https://img.shields.io/badge/Saweria-FF5E5B?style=for-the-badge&logo=saweria&logoColor=white"/></a>

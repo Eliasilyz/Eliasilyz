@@ -40,6 +40,11 @@ jobs:
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
 
+          
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://lecoq.io
+
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 365

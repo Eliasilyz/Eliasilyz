@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1232 Commits
+                            1234 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -471,9 +471,9 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAwgAAQQFBwIG/8QAMBAAAgEDAgQFBAAHAQAAAAAAAQIDAAQRBSEGEjFBBxMiUXEIFDJhFSNSgYORsfD/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAgEDBP/EABkRAQEBAQEBAAAAAAAAAAAAAAABEQIxA//aAAwDAQACEQMRAD8AZMgk4HSpygHtVVYryLQjqO9afiHiC00RoYriO4mup0Z4ba2QNJLyvGhCqSMnMqE+wyTjFbgjIOCf/fNfO8ScY6Bw5cxW2sarDaXMuGjjYjmIJxkewyc7/NIPouXepjfpQ7WaG6hiuLWdJoJFDJJE4ZWU9wR2owG+9B5bYfNY7qCxO1ZTgYxigEfFAUe1X3qDoMVAKCdxttS88a+GNpr3EvF+oa3d3NtNDPBLE8QHlrasjYZicczBhKDgkjC52NMLIyxqXkYKq+pj7AUkHHXinxXxXJdNPetaabewmL7OEDy44XweTOPUxwMsd9jjAJFVzLfDTQ+Adlf6f4S8PwatE8NyISwR8ZEbMShwOnpK9d/fB2HQf3Sn/TFxzq6cZpw3qWqXFxpE1q/kxXMnOIHQKV5C26rgFeUHGT0zTYY/dO5lIqQ9CKCMkbkUWU4xQCwGwqQfsc1KodOlWKDUcX2mn6hwzqVprSu2mzQlJ1QsrFT2BXfPTpSOca8Opo1xO9lI02nQ3s2npI3NzRzRLG0sbkgAgNKApH5AEntT4XMUdzdQRSNtCRcNH/VjZc/rm3+RSXeMP8R0TULzhWTVPu9Psb55VT7dUJebEzMzY5if5ij8sYA+K6fO3Svu/ps8PLa6n0vi7VHMh55vsrf0lFKegs4I3bmLY9vSf0GiFcc+nOGWx4D0WzveRblfNuljzv5M4SSNj8hj/ojqDXYubAP6qOrtpPHmQDH7oeB7VbSAiqz8VgLvUH9tqsdKpelB4MaeaJCq+Yq8obG+Dg4z7bClM+oaPSpvG6ytboLHZSfaPqb55dmIRyT2HlIm/am2pVvFDQ7LXPHbi+1v0kaOPh57xSsjAiWOBWU9em3Tod9tzV/P1lMKulLbcVx6jaQRLFLZLaSlTgKsTMYsD/I42H/AK3oJIrlH00a5fa94YxnU5fOksLmSyikP5GJApUMe5AbGfYDvvXW41GDU2ZcaxyD3rIT8aG4AIxRB0rB//9k=" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAQQDAQAAAAAAAAAAAAAABwAEBQYBAgMI/8QANhAAAQIEBQEFBgQHAAAAAAAAAQIDAAQFEQYSITFBEyJRYXGBBxQyQqHwI5Gx0SRSkpOyweH/xAAbAQACAgMBAAAAAAAAAAAAAAADBAUGAAECB//EACMRAAICAgIBBAMAAAAAAAAAAAEDAAIEERIxIQUTQXGR0eH/2gAMAwEAAhEDEQA/APKsOpaSmJo/gNKV5RiQlXJyabZaBzKO/cOTBhwTh1mRCFPpU4eQBc+gEBc6qq7MOjHs46HUpmFMJ4imZwGRk3r33SL+lxtBEnfZ1i+qNNPu4cnFOMIUhDa3m1FRPzaq0G/N7niC/g6epFMfaZedErnIt10FsK7rE7wW6e6y442kLT29u0NeTaE1ZNnHZGodiQka7lT9gOE6tg32ftUyulKZhb65hLCVBXu6V27BI3NwVHfVRANhBKhQokQNRExQoUcHZpllWVxxKVb2MbmTwNg2hM08JddAceO5I28oLDeGZur05p3D7yGZlBGcK2WIoNP7RTl8ILPs4mHWXLC+QakxB5VzyFjLLVIWrVJMow7MO02myld91U6HUIJS3wTYmxJ8OYvuBpSYenJ2cqdGbk3JV5crKO9YulTQt2gCkZL34vsdbWuOqTVKpWsSPPVBiYl0MvgMS6GisZAqwKiOTa/0g7SycrCQd9zBcJdbsJ11I7NNqVFSe52hRjwBjVXYSTYqiXkXE44ltBUshKRzHn3H+JXnsTzSmCtTQslIQ31MoHBIB18PGCtXKm+4rpNtPZdcyE/F6C2o0P6XEByvMU0VJzP7wlXKUy+exub3Itrfj/VoQyLm/isMsa8mBygzgebS4LpUDZaFboPcfvaCfRZyZRRFiTSvrObFsXNr66HeGdLwhKUWquzE3SU1KTeZUyUOXC27kHMgj5tN9xfQjmRpsnMUubQ5TpOopl81w28UKPfYEEfUQq+nveVjcs2ReuOBRp+j8H9GE/CdTFIkmlzhVNPr1yqZ6S0+e9/+RaJXGkk4sIeYfZJ2NgofSB2cZT2ihQczulyp5ofqqN2sazqgOvS22VfzBxtX5WMOpJVQVFD+DKw+xbc35CFpiryj4u2XP7av2jddRaSLlD1u/IYCz+PKqHyG0/hd4ULxibxpVQ22ZdwZ1nZSiSb8aQT3rfFDBaA7sIU67U1FltMqw5MdY5MhTlSNd1EjTfy84pEx7yXnOnNNtWWsKSqYKdcx4v5QMKpj6ozScg6KnLKWhxL4OoNjvzrfyEQq8XT6llS2wpZ1Ucx1MJXzN9CNBJqdWOpNS8q9MrDs5NuqJ3QOykaf1fWLTRX25RSW3xmY08x68xWUrU26pHxZDoo77Hn0h+y6pCbg8X184Att1250OjL3lY9MhZWwbBhFDMotpK0obUgjRW0clysivKOmjbggxQKhOTDdMe6TqkZFpOh3uoDX0UYgahVZ6VSt9iacS4hBUDfkaRZMXLDaciPM819UxDgvKt7HY/sJkumkTEoJhooS0dLkAa8j75EDXHOJHqJX2paiGSnEZC44l5hRUyb6AKSoA3BPFwBc7iBXT8R1OXWtluZUUNMqy5iSfjvqefvvi4MKK25pWiSQonKLX7KTr+cce/dy+J8GLXqEM5Ab+5GVGoKmphp2XkZWVczHXOpbYJA+UjQcbmwhtMzDIWkJbUs5dVJItfwuLxJqZS0p4pKrpQ4oXPIz2/xETkkxLmWR/Dt/X94STi7GoV+axp2zzP/Z" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Lost on You</div>
+                                    <div class="name">Sampai Menutup Mata</div>
                                     <div class="artist"></div>
                                 </div>
                             </div>
@@ -775,7 +775,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Aug 2026, 02:52:32  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Aug 2026, 03:21:07  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

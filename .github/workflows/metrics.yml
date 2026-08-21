@@ -43,7 +43,7 @@ jobs:
           
           plugin_pagespeed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://lecoq.io
+          plugin_pagespeed_url: https://farelhanafi.my.id
 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

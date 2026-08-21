@@ -18,7 +18,7 @@ jobs:
       contents: write
     steps:
       - name: Compact display
-        uses: lowlighter/metrics@latest
+        uses: stalomeow/metrics@edcae0f
         with:
           filename: metrics.plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}

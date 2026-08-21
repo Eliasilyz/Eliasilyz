@@ -1,0 +1,28 @@
+name: Metrics README
+
+on:
+  # Berjalan otomatis setiap hari jam 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Memungkinkan kamu menjalankan workflow secara manual dari tab Actions di GitHub
+  workflow_dispatch:
+  # Berjalan otomatis setiap kali kamu melakukan push ke branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C

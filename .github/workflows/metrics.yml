@@ -34,7 +34,7 @@ jobs:
 
           plugin_leetcode: yes
           plugin_leetcode_user: eliasilyz
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_leetcode_sections: solved, skills
 
           plugin_notable: yes
           plugin_notable_indepth: yes

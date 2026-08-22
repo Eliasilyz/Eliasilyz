@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1314 Commits
+                            1479 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 370 users
+                            Following 371 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    4.18 GB used
+                                    4.17 GB used
                                 </div>
                             </section>
                             <section>
@@ -471,9 +471,9 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,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" width="32" height="32" alt="" />
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAA8ADwDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAgBAwIFBwYE/8QAMBAAAQIFAwIGAQIHAAAAAAAAAQIDAAQFESEGMUEHEggTFCJRcTJhkUJDUoGhsfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAgEE/8QAGREBAQADAQAAAAAAAAAAAAAAAAECETED/9oADAMBAAIRAxEAPwBkyCcDaDtANoj/AFEgcGORYIG3MaXUWopOhql2php+Zm5hBWxLSyAp13tW2ghIJFzd1N/gXPEbopuLA5/75jzep9aad01Mty9aqrMpNO2KG1ZVYm19rAff3CD0nb+8Fs7RVKvszbDUzKzCXpd0BaHG1hSFpPII4i8DMBisWEULSCq8fSoC20UEG+/+YC0bARPMA2FoAMwBztiFz1n0wlK5qfWNQrU3My0wzMsutuNgBsSi0Ksskj3KCkuAi5I7U3FjDFuLS0lS3D2oTcqPwBCP676pap1U/NKdnnJSmTrRa9G0AG0MKsewm1yo2F1HJyBYEiKwlvC0z/h/kqhTukmn2Ks04zM+WtYQq1/LUsqbNuLpIwcjmxxHRBCm+GPXVWa1q1puo1SZmaO9LOeS1Mud6WXEAFPaVZSLJKe0G1zteGxAzDOapEOHFxFSbkZMWOnEU3PG0SL/ALg5EHG0AgNRrCUp9Q0xUpStJcVTXmS2+lskKUnGAU5v9Qjms9Opo700uSWp6mMzz1OQ4q/ch5pKFOtrvYEAuWCh+QBJ4h8JlpuZmmGnFYaImFN/1W/G/wCl8/YhLOryalQ6hOaWdqvq6fIzzjiUenQglbwDylqVbuJ96R+RwBttF+duy8e88NnTuWm5mmauqi1OFLj3omPaUAp9hWsEXKgoqt8e0/oGjF7xxrw5NOyWhKPJTxbbmE+bMob7rnyXwhxtRFsXuf2PNxHZO4AE2icrvKk4wcAtmMO0QKcBAguPmMFuYM/MSNohO0BipCPOS4UJ81IICrZANsX+MCFJ8Q7dKd63ScrNBLck76RypLv24UQhZJ4AaQjP3DcQqXVKiydc68azlJ9Lim2qEuaQUuEEONy6FIP78bb4yYvz6ymHRSkyurmajJS7aWHZFMq9247Q0VFqw2/mLG23OAI39yUxyjwy1uer3TJo1N3zVyM0uRaX/EWkpSUhR5I7rX+AOcx1ttI7f7RNmrpr57HmL0D2iMFixEWCMH//2Q==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">Abadi (Indo Version)</div>
+                                    <div class="name">Lost on You</div>
                                     <div class="artist"></div>
                                 </div>
                             </div>
@@ -528,7 +528,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    370 followed
+                    371 followed
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -690,8 +690,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="121.18044179697195 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1484</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="124.69173492181683 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1527</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4029</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -699,8 +699,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="151.47708333333333 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">442</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="154.56145833333332 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">451</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/960</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -708,8 +708,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="123.90299572039943 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">792</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="126.71897289586306 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">810</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2103</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -717,8 +717,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="85.14492753623189 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">250</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="90.59420289855072 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">266</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/966</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -734,22 +734,22 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x861</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x329</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x323</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x242</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x234</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x230</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x200</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x143</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x139</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x109</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x885</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x341</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x338</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x249</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x239</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x233</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x204</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Depth-First Search <span class="count">x147</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x144</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Breadth-First Search <span class="count">x110</span></div>
                     </div>
                 </section>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2026, 09:48:56  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Aug 2026, 10:49:50  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

@@ -1,6 +1,8 @@
-name: Manual GitHub Unfollow Bot
+name: GitHub Unfollow Bot (Daily Auto & Manual)
 
 on:
+  schedule:
+    - cron: '0 0 * * *'  # Berjalan otomatis setiap hari (00:00 UTC)
   workflow_dispatch:
     inputs:
       days:
@@ -47,7 +49,11 @@ jobs:
           personal_github_token: ${{ secrets.PAT_TOKEN || secrets.METRICS_TOKEN || secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
           UNFOLLOW_WHITELIST: ${{ secrets.UNFOLLOW_WHITELIST }}
         run: |
-          FLAGS="--force --days ${{ inputs.days }}"
+          DAYS="${{ inputs.days }}"
+          if [ -z "$DAYS" ]; then
+            DAYS="7"
+          fi
+          FLAGS="--force --days $DAYS"
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             FLAGS="$FLAGS --dry-run"
           fi

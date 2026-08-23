@@ -1,51 +1,69 @@
 import os
-import json
 import requests
-from requests.auth import HTTPBasicAuth
-
 
 print('Hi! I am GitHub follower bot.')
-print('Letting you follow your all followers!')
-print('Stating fetching your follower lists...\n')
+print('Letting you follow all your followers!')
+print('Starting fetching your follower lists...\n')
 
-github_user = os.getenv('github_user')
-personal_github_token = os.getenv('personal_github_token')
+github_user = os.getenv('github_user') or os.getenv('GITHUB_USER') or 'Eliasilyz'
+personal_github_token = os.getenv('personal_github_token') or os.getenv('PERSONAL_GITHUB_TOKEN') or os.getenv('GITHUB_TOKEN')
 
-follower_url = 'https://api.github.com/users/%s/followers?page=' % (github_user)
-update_followed_user = 'https://api.github.com/user/following/%s'
+if not personal_github_token:
+    print('Error: personal_github_token is not set!')
+    exit(1)
+
+headers = {
+    'Accept': 'application/vnd.github.v3+json',
+    'Authorization': f'token {personal_github_token}',
+    'User-Agent': 'Mozilla/5.0 (GitHub-Follower-Bot)'
+}
+
+followers_file = './followers.txt'
+follower_txt_lists = set()
+
+if os.path.exists(followers_file):
+    with open(followers_file, 'r', encoding='utf-8') as f:
+        follower_txt_lists = set(line.strip() for line in f if line.strip())
+
 page = 1
 follower_counter = 0
+new_followed_count = 0
 
-file_handler = open('./followers.txt', 'r')
-follower_txt_lists = ''.join(file_handler.readlines()).split('\n')[0:-1]
-file_handler.close()
+with open(followers_file, 'a', encoding='utf-8') as f:
+    while True:
+        follower_url = f'https://api.github.com/users/{github_user}/followers?page={page}&per_page=100'
+        response = requests.get(follower_url, headers=headers)
+        
+        if response.status_code != 200:
+            print(f'Failed to fetch followers (Status {response.status_code}): {response.text}')
+            break
 
-file_handler = open('./followers.txt', 'a')
+        follower_lists = response.json()
+        if not follower_lists:
+            break
 
-while True:
-    response = requests.get(follower_url + str(page))
-    follower_lists = json.loads(response.text)
-    follower_lists_len = len(follower_lists)
-    if follower_lists_len == 0:
-        break
-    follower_counter += follower_lists_len
-    for follower_info in follower_lists:
-        headers = { 'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' }
-        user = follower_info['login']
-        if user in follower_txt_lists:
-            continue
-        response = requests.put(update_followed_user % (user), auth=HTTPBasicAuth(github_user, personal_github_token), headers=headers)
-        if response.status_code == 204:
-            print('User: %s has been followed!' % user)
-            file_handler.write(user + '\n')
-        else:
-            print(response.text)
-    page += 1
+        follower_counter += len(follower_lists)
 
-file_handler.close()
+        for follower_info in follower_lists:
+            user = follower_info.get('login')
+            if not user or user in follower_txt_lists:
+                continue
 
-file_handler = open('follower_counter.txt', 'w')
-file_handler.write(str(follower_counter) + '\n')
-file_handler.close()
+            update_url = f'https://api.github.com/user/following/{user}'
+            put_res = requests.put(update_url, headers=headers)
 
-print('\nFollowing users from your followed lists are done!')
+            if put_res.status_code == 204:
+                print(f'User: {user} has been followed!')
+                f.write(f'{user}\n')
+                f.flush()
+                follower_txt_lists.add(user)
+                new_followed_count += 1
+            else:
+                print(f'Failed to follow {user} (Status {put_res.status_code}): {put_res.text}')
+
+        page += 1
+
+with open('follower_counter.txt', 'w', encoding='utf-8') as f:
+    f.write(str(follower_counter) + '\n')
+
+print(f'\nFinished! Total followers counted: {follower_counter}. New followers followed: {new_followed_count}.')

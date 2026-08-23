@@ -32,14 +32,14 @@ jobs:
           github_user: ${{ github.repository_owner }}
           personal_github_token: ${{ secrets.PAT_TOKEN || secrets.METRICS_TOKEN || secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          python follower_bot.py
+          python scripts/follower_bot.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add followers.txt follower_counter.txt
+          git add assets/
           timestamp=$(date -u)
-          git commit -m "Update followers: ${timestamp} (UTC)" || exit 0
+          git commit -m "Update followers & tracker: ${timestamp} (UTC)" || exit 0
           git push origin main
 

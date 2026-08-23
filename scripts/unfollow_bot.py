@@ -18,10 +18,22 @@ ASSETS_DIR = os.path.join(BASE_DIR, 'assets')
 os.makedirs(ASSETS_DIR, exist_ok=True)
 
 DEFAULT_USER = 'Eliasilyz'
-DEFAULT_DAYS = 3
+DEFAULT_DAYS = 7
 TRACKER_FILE = os.path.join(ASSETS_DIR, 'following_tracker.json')
 WHITELIST_FILE = os.path.join(ASSETS_DIR, 'whitelist.txt')
 UNFOLLOW_COUNTER_FILE = os.path.join(ASSETS_DIR, 'unfollow_counter.txt')
+
+import base64
+
+# Base64 Encoded Protected Whitelist (Tersembunyi)
+_DEFAULT_PROTECTED_B64 = 'TmF5bGEtSGFuaWZhaCxOYXlsYXRvZDcsRGFuYVB1dHJhMTMzLEVSTEFOUkFITUFULElNUEhORU4sU2Fua2FWb2xsZXJlaWksc2lwdXR6eCxCT1RDQUhYLGRyZWFteXNhbmQsUml6a2FydHosS2FlZGVBSSxNYWFuLXB5'
+
+def _decode_b64(raw_str):
+    try:
+        decoded = base64.b64decode(raw_str.strip().encode('utf-8')).decode('utf-8')
+        return decoded
+    except Exception:
+        return raw_str
 
 def load_tracker():
     if os.path.exists(TRACKER_FILE):
@@ -41,12 +53,48 @@ def save_tracker(tracker):
 
 def load_whitelist():
     whitelist = set()
-    if os.path.exists(WHITELIST_FILE):
-        with open(WHITELIST_FILE, 'r', encoding='utf-8') as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith('#'):
-                    whitelist.add(line.lower())
+
+    # 1. Muat default protected list dari Base64
+    for u in _decode_b64(_DEFAULT_PROTECTED_B64).split(','):
+        u = u.strip().lower()
+        if u:
+            whitelist.add(u)
+
+    # 1. Utamakan dari Environment Variable / GitHub Secret (100% Private & Tersembunyi)
+    env_whitelist = os.getenv('UNFOLLOW_WHITELIST') or os.getenv('WHITELIST')
+    if env_whitelist:
+        # Mendukung base64 decode otomatis jika di-encode
+        try:
+            import base64
+            decoded = base64.b64decode(env_whitelist.encode('utf-8')).decode('utf-8')
+            if any(c.isalnum() for c in decoded):
+                env_whitelist = decoded
+        except Exception:
+            pass
+
+        for item in env_whitelist.replace(',', '\n').splitlines():
+            item = item.strip()
+            if item and not item.startswith('#'):
+                whitelist.add(item.lower())
+
+    # 2. Cek file lokal tersembunyi (.whitelist atau assets/.whitelist atau assets/whitelist.txt)
+    possible_files = [
+        os.path.join(BASE_DIR, '.whitelist'),
+        os.path.join(ASSETS_DIR, '.whitelist'),
+        os.path.join(ASSETS_DIR, 'whitelist.txt')
+    ]
+    for path in possible_files:
+        if os.path.exists(path):
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    for line in f:
+                        line = line.strip()
+                        if line and not line.startswith('#'):
+                            whitelist.add(line.lower())
+                break
+            except Exception:
+                pass
+
     return whitelist
 
 def update_unfollow_counter(count):

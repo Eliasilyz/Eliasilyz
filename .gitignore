@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and sensitive configuration
+.env
+.env.*
+
+# Private Whitelist files (Hidden from GitHub repository)
+.whitelist
+assets/.whitelist
+assets/whitelist.txt

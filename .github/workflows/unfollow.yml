@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       days:
-        description: 'Days threshold to unfollow (default: 3)'
+        description: 'Days threshold to unfollow (default: 7)'
         required: true
-        default: '3'
+        default: '7'
         type: string
       dry_run:
         description: 'Dry run (simulate only, do not unfollow)'
@@ -45,6 +45,7 @@ jobs:
         env:
           github_user: ${{ github.repository_owner }}
           personal_github_token: ${{ secrets.PAT_TOKEN || secrets.METRICS_TOKEN || secrets.PERSONAL_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+          UNFOLLOW_WHITELIST: ${{ secrets.UNFOLLOW_WHITELIST }}
         run: |
           FLAGS="--force --days ${{ inputs.days }}"
           if [ "${{ inputs.dry_run }}" = "true" ]; then

@@ -1,7 +1,0 @@
-# Whitelist for unfollow_bot
-# Users in this list will NEVER be unfollowed, even if they do not follow you back.
-# Add one username per line. Lines starting with # are ignored.
-
-# Examples:
-# torvalds
-# github

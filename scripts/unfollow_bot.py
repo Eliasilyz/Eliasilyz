@@ -18,7 +18,7 @@ ASSETS_DIR = os.path.join(BASE_DIR, 'assets')
 os.makedirs(ASSETS_DIR, exist_ok=True)
 
 DEFAULT_USER = 'Eliasilyz'
-DEFAULT_DAYS = 7
+DEFAULT_DAYS = 3
 TRACKER_FILE = os.path.join(ASSETS_DIR, 'following_tracker.json')
 WHITELIST_FILE = os.path.join(ASSETS_DIR, 'whitelist.txt')
 UNFOLLOW_COUNTER_FILE = os.path.join(ASSETS_DIR, 'unfollow_counter.txt')

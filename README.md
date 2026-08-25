@@ -16,6 +16,8 @@
   <a href="https://www.instagram.com/faraelh_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
 </p>
 
+[![npm npx](https://img.shields.io/badge/npx-farelhanafi-C12127?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/farelhanafi)
+
   ![](https://komarev.com/ghpvc/?username=OnlyRein)
   
 </div>

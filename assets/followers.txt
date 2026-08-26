@@ -178,3 +178,5 @@ specterjwg
 wakenedo
 Oztturk
 NataliaBurgareli
+hexarch
+magicdevstar

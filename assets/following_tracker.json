@@ -1,638 +1,74 @@
 {
-  "tobi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ericallam": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mitchellh": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "akitaonrails": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "adulau": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "igrigorik": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "esokullu": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "garrytan": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ralyodio": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "markmhendrickson": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "davatron5000": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "pbakaus": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "intellectronica": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "cagnulein": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "addyosmani": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "baijum": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "swankjesse": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "CamSoper": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "arsenm": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "hzeller": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "joschu": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "xiaolai": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jupp0r": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "aheritier": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "kwin": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ascorbic": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "eirikb": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "kenwheeler": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "nicknisi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jdubois": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "yhirose": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "justjavac": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "tgmarinho": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "kixelated": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mvanhorn": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sunchao": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "zzet": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "tmchow": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "madeye": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "erichare": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "glours": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "zrax": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "owainlewis": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "OutThisLife": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "seantalts": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sozercan": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jtydhr88": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "squidfunk": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "magnus919": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "raullenchai": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "koala73": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "agalwood": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "akshaydeo": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jbeder": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "zeux": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sgraf812": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "wenshao": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "wjakob": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "yetone": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "takahirom": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "poteto": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "rolker": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "cfregly": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mikepenz": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "fast4x": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "kentcdodds": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "carlosflorencio": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "simsong": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "katbyte": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "bcherny": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "itsthisjustin": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "brianpetro": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "seveibar": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "evalstate": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "WebBreacher": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "niranjan94": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "ishandutta2007": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "huntie": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "dmmulroy": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ryansolid": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ruvnet": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "webup": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "trekhleb": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "elie222": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "kunchenguid": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "silentred": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mhogomchungu": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "hermet": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "khronos224": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "xpzouying": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Moyf": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "momo5502": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sonichi": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "chenhg5": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "78": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mmabrouk": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "wittjosiah": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "narumiruna": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "igorls": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "SamMorrowDrums": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "safijari": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "expressjs": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "maziyarpanahi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "igorpecovnik": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "MarshallOfSound": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "seehiong": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "danielchalmers": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "backnotprop": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "stephenberry": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "leecalcote": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "amElnagdy": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "artokun": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ryanbalieiro": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "saoudrizwan": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "leonardomso": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "yairm210": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "vvolhejn": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "iCHAIT": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "henrygd": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "offa": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "zacharee": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "peter279k": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "dawidd6": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "success-meta-1": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "thejaustin": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "can1357": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "lightvector": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "eddyizm": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sdatkinson": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jkomyno": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "snakers4": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "callumalpass": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "wszqkzqk": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "JustVugg": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "777genius": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "baconpaul": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "zsviczian": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AmazingAng": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "LionSR": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "huiyadanli": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "javascriptair": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "hiyouga": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "adamyeats": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "dbunt1tled": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "binaricat": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ko3n1g": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AlexandreRouma": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sxyazi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "HansKristian-Work": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "gakonst": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "IDouble": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "Jeesson": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "lalalune": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "baseballyama": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "joshenlim": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mmirzay": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "appcypher": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "danielhanchen": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "nicoloboschi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "hannibal002": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "GitSquared": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "krille-chan": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "cambot86": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Wei-Shaw": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "capcom6": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "dalathegreat": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "zts212653": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "sungeer": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "dentiny": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Sanghyun-0h": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "dweatherston11": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "furkan012": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Shubhamsaboo": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "dreamhunter2333": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Soju06": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "samolego": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "BBuf": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "Alitindrawan24": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "boomray": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "amir1376": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sam-goodwin": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "luisotakubanda": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "sophiamyang": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "bradygaster": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AndreasKaratzas": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ZhuLinsen": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "juandjesus20009": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Kyle-Ye": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "laloloco89": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "n0liu": {
     "followed_at": "2026-08-24T03:28:38.795361+00:00"
   },
-  "ding113": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mojtaba1996cs": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "hyfdev": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jxxghp": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "bholmesdev": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "T8RIN": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "tt-a1i": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "lawrencecchen": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "xdatabox": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "Simon-He95": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "BEPb": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "fitchmultz": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "rahadbhuiya": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "johandraew": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "aza-ali": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "EricLBuehler": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "aandrew-me": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "meta-success": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "mee-akie": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "wweinert": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "JohnMwendwa": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ImChong": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "1weiho": {
@@ -644,37 +80,19 @@
   "0xAnamul": {
     "followed_at": "2026-08-27T16:37:49.867675+00:00"
   },
-  "t8y2": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Nisyalz01": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "DeusData": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "00200200": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "uiFramer": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "ZenyaDAR": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "seckinyasar": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "aplus-framework": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "NazmusSayad": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "KaenBlaze": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "soupslurpr": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "BOTCAHX": {
@@ -689,28 +107,7 @@
   "ERLANRAHMAT": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "HaD0Yun": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ThierryRakotomanana": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "supercodeartisan": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "Naylatod7": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ettisafxrup": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Koukobin": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "inotia00": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ippei-shimizu": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "DanaPutra133": {
@@ -719,49 +116,16 @@
   "anuragbhonsle": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "adameus03": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "62Javi": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "vyncint": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "TobyPhln": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "robobun": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "FooIbar": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "Scottcjn": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "Sumersingpatil2694": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Anionex": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Shifrozy": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "dashhuang": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "coda-coda-23": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "SadeeshaJayaweera": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "GabrielKqw": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AlmigthyMatheus": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "rohandev19": {
@@ -782,31 +146,10 @@
   "YeamimHossainSajid": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "Mftrferdinand": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "MAINMMTTMAIN": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "samiulahmed30": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "AmanatAliPanhwer": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "alrifatsabbir": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "martian56": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ilyesw": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "sahilkhan2134ui8": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "rexblade58": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "rameeshas2": {
@@ -815,19 +158,7 @@
   "Agsaramdann": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "Salyts": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Amirzamani1l": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "justinlietz93": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "Ali-hey-0": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "MasfiRahman": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "siputzx": {
@@ -836,25 +167,10 @@
   "bart2n": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "GioiaZheng": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "IMPHNEN": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "PascalHberg": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "Srilee-55": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "NeptuneHub": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "vanshinatorr": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Dhruvpandey1476": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "jkdevcode": {
@@ -875,38 +191,14 @@
   "aghatechz": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "sirUnchained": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "dreamysand": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "imscaredtobloom": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "comfyui-wiki": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "neflibata-feng": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "akobir-s": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "chiissuu": {
     "followed_at": "2026-08-23T21:10:44.951527+00:00"
-  },
-  "natedemoss": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Ahad-Dngwala": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Arda-Kilit": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Joaovictoreth1": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "aibers": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
@@ -917,40 +209,7 @@
   "xcontcom": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "ytaxx": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "LaVenganzaDelLadron": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "OronukpoAra": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "milirezai": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "hackercondor": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Seo-yeonLee": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mohamadeydipour": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mindvirusAI": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "EtienneLescot": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "joramkirubi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "kyle-vbc": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "joecarlsmith": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "amiraliSite": {
@@ -965,58 +224,16 @@
   "laigit-dot": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "danchristian2": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "2nixx": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "alvrenkai": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "lakshan-beast": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "deepasharma04332-sketch": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "looplj": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "TebohoMkhuma": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "vishwa-io": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "vivicolleoni": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "pawan-sharma-dev": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "EfraimDeveloper": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jojoamanie": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "VisionVector": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "lidge-jun": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "9Michael-Cooley": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "magroandi28-lang": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "vladimiracunadev-create": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mathewkarachu": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "yash-dev155": {
@@ -1031,151 +248,40 @@
   "ashrafjr-n": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "Astro-Han": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AnkitSaini491": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "wyzuk": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "TheCodingDad-TisonK": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ArthurLopesCoelho": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AbdulGani-01": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "math-mp": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "byMegane": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "pradhanashwarya2122": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "aatifaaofficial": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "Tech-Ninja1020": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "arrnavcodes": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mybrainsout": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "nwogermany": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "andresfercos-cyber": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "nabeelsayyed": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "stephenlutar2-hash": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "anas17-zip": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "larsborgwardt": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "kyal102": {
     "followed_at": "2026-08-24T03:28:39.235934+00:00"
   },
-  "holilayet": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "ByteBunny777": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "tanyajha12": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "axxodeveloper": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "404ghosts": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "siantos10": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "harukujo227": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "makhadoshumba": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "jameswang1010": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "tracolerd": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "aprajitamrinal": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "raviwijerathna1": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "basaranbabur": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Adam-Ghanem": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Lycan-1314": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "MohammedAwadah": {
     "followed_at": "2026-08-24T09:34:53.670430+00:00"
   },
-  "data-probe-1": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "AIharthi": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "dragprog": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "mc-bushpig": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "minatofullstack-ops": {
     "followed_at": "2026-08-27T05:27:59.049144+00:00"
   },
-  "TOPDEV99999": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "captain-tobby": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "bhartu09": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "edijni07-commits": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "cj5840662-lab": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "nistordarius26h-ship-it": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "coderajay391": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "vitoriacdev": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "antonisloukis": {
@@ -1199,15 +305,6 @@
   "alexanderjohnso": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "abuqassam779": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "jojokujo404": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "DusanCar-sudo": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "davidyehuda45-byte": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
@@ -1217,62 +314,17 @@
   "yzhang-master": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "3v3rlasting": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ehsan-one26": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "APandG": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "artchiv3work": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "octocute": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "thiaregomezh": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ravishiomari-pixel": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "Ayazgouri2001": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "gstvoasc": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
   "ramphalharrilal": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
   },
-  "asmamuk99-prog": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "journaltraces": {
     "followed_at": "2026-08-23T10:46:40.437583+00:00"
   },
-  "sleetling": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "RemoteBrowser01": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Krazzel": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "ahopemmoeri-wfs": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
   "KaedeAI": {
     "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "Zzzoubair33": {
-    "followed_at": "2026-08-23T10:43:28.422430+00:00"
-  },
-  "5hivam45": {
-    "followed_at": "2026-08-23T15:43:18.142466+00:00"
   },
   "sabbir-noyon": {
     "followed_at": "2026-08-23T18:54:01.043808+00:00"
@@ -1322,26 +374,11 @@
   "cheeaun": {
     "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
-  "robertpelloni": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "ph1987": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "beonespecial112": {
     "followed_at": "2026-08-24T20:16:35.037291+00:00"
   },
-  "ChiperSage": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "rich-iannone": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "anas1412": {
     "followed_at": "2026-08-26T10:57:54.440985+00:00"
-  },
-  "yuannh": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "fazaltech": {
     "followed_at": "2026-08-24T12:22:37.285219+00:00"
@@ -1349,95 +386,26 @@
   "tysoncung": {
     "followed_at": "2026-08-28T12:41:22.209765+00:00"
   },
-  "EvgeniiGrinko": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "AMAN-SHEIKH-GIT": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "CamiloCod3": {
     "followed_at": "2026-08-24T07:57:43.113250+00:00"
-  },
-  "benaduo": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "miladkermaji8639": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "AhmadHRai": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "45Harry": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "INA-95": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "lee-kyu-hwan": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "milsaware": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "ajfoucault": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "Rehan22345": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "Awambeng": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "sinae99": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "Shreyash0712": {
     "followed_at": "2026-08-24T02:15:38.633542+00:00"
   },
-  "RofiifSyarof": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "Oztturk": {
     "followed_at": "2026-08-26T16:08:29.357615+00:00"
-  },
-  "esthyj": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "NietoDeveloper": {
     "followed_at": "2026-08-24T02:15:38.816824+00:00"
   },
-  "nadeemworkspace": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "Loann110": {
     "followed_at": "2026-08-24T06:59:19.034234+00:00"
-  },
-  "AAbdullahRajput": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "JESAN-HR": {
     "followed_at": "2026-08-26T10:03:42.633213+00:00"
   },
-  "berkankaradas": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "ruslanleker1663": {
     "followed_at": "2026-08-24T15:07:08.620876+00:00"
-  },
-  "darkmagic76": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "Helionux": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "PomegranateBlue": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "rossieyy": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "github-enthusiast": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "LordJiriX": {
     "followed_at": "2026-08-24T15:07:08.878595+00:00"
@@ -1448,20 +416,8 @@
   "Ava-91": {
     "followed_at": "2026-08-24T09:34:53.383916+00:00"
   },
-  "niicaa17": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "wichlene": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "Dharmik7878": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "SUBHAM149": {
     "followed_at": "2026-08-24T05:59:47.636322+00:00"
-  },
-  "Bhumika197": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "yashvskothari": {
     "followed_at": "2026-08-24T03:28:38.919240+00:00"
@@ -1469,50 +425,17 @@
   "saeed-devee": {
     "followed_at": "2026-08-24T15:07:09.184585+00:00"
   },
-  "Dorairashi": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "EARL146": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "harisoncleytondev": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "Ahsan-Khalid01": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "cyber-pnl": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "taezeem14": {
     "followed_at": "2026-08-25T15:11:21.636655+00:00"
-  },
-  "light2tech": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "ajbeaver": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "phathsopheakmeangkuol2007-netizen": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "kh-almikat": {
     "followed_at": "2026-08-24T17:02:26.734587+00:00"
   },
-  "trungminhdo4-glitch": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "EnzoAnthony006": {
     "followed_at": "2026-08-24T18:21:48.522415+00:00"
   },
-  "MsCarolynne": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "brutal-45": {
     "followed_at": "2026-08-27T16:37:51.593200+00:00"
-  },
-  "SamzaMwalo": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "ksarith": {
     "followed_at": "2026-08-24T03:28:39.094188+00:00"
@@ -1520,47 +443,14 @@
   "Ahtsham9116": {
     "followed_at": "2026-08-24T15:07:09.491484+00:00"
   },
-  "rayhankhilji": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "saravananbass12-tech": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "saofficial344-dev": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "SteveErnest": {
     "followed_at": "2026-08-24T10:26:06.762670+00:00"
-  },
-  "wmejiasbcn-tech": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "thrilIer": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "Aneesh-20": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "mimaldoza-a11y": {
     "followed_at": "2026-08-28T01:11:58.669548+00:00"
   },
-  "rerrcatch": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
   "adityakmyadav01-sys": {
     "followed_at": "2026-08-24T09:34:53.927859+00:00"
-  },
-  "HachiHachiWare": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "YuliaNuzhnenko": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "kuwakuwa53577": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
-  },
-  "ponytownclips": {
-    "followed_at": "2026-08-24T00:36:42.757725+00:00"
   },
   "hamxy": {
     "followed_at": "2026-08-24T06:59:18.924750+00:00"
@@ -1576,9 +466,6 @@
   },
   "christianr108": {
     "followed_at": "2026-08-24T14:10:02.848969+00:00"
-  },
-  "md-abu-kayser": {
-    "followed_at": "2026-08-24T17:02:26.451540+00:00"
   },
   "standardgalactic": {
     "followed_at": "2026-08-24T17:54:01.913381+00:00"
@@ -1699,9 +586,6 @@
   },
   "TrueFurina": {
     "followed_at": "2026-08-26T05:56:13.015338+00:00"
-  },
-  "alexatale": {
-    "followed_at": "2026-08-26T00:37:02.495893+00:00"
   },
   "ali-faraz-py": {
     "followed_at": "2026-08-26T00:37:02.495893+00:00"
@@ -1939,5 +823,29 @@
   },
   "truefurinaa": {
     "followed_at": "2026-08-28T12:41:23.854566+00:00"
+  },
+  "watson": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "cmungall": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "hrydgard": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "MervinPraison": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "CharGrnmn": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "awaseem": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "wibus-wee": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
+  },
+  "AyarsMelegim": {
+    "followed_at": "2026-08-29T04:40:00.928496+00:00"
   }
 }

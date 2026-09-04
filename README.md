@@ -63,7 +63,7 @@
 
   <!-- Activity Graph -->
   <a href="https://github.com/Eliasilyz">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eliasilyz&bg_color=0D1117&color=67E8F9&line=67E8F9&point=2ECC71&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+    <img src="https://streak-stats.demolab.com?user=eliasilyz&theme=transparent&hide_border=true" width="100%" alt="Streak stats" />
   </a>
   <br/><br/>
 
@@ -77,24 +77,15 @@
 
 ---
 
-### 🌸 AniList Favorites
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Eliasilyz/Eliasilyz/main/metrics.anilist.svg" width="100%" alt="AniList Activity" />
-</div>
-
----
-
 <div align="center">
   <h3>💝 Support</h3>
   <a href="https://saweria.co/rein122"><img src="https://img.shields.io/badge/Saweria-FF5E5B?style=for-the-badge&logo=saweria&logoColor=white"/></a>
   <a href="https://ko-fi.com/eliasilyz"><img src="https://img.shields.io/badge/ko_fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
 
-<footer align="center">
-  <p>© 2026 EliasIlyz • Made with ☕ and ❤️</p>
-</footer>
-
+<div align="center">
+  <a>© 2026 EliasIlyz • Made with ☕ and ❤️</a>
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=150&color=gradient&section=footer&reversal=true"/>
 </div>

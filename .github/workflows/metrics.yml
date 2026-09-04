@@ -17,13 +17,12 @@ jobs:
           base: header, activity, community, metadata, repositories
           
           plugin_repositories: yes
-          plugin_repositories_featured: Eliasilyz/EliasDex-2, Eliasilyz/EliasDex, Eliasilyz/RellBotv2
+          plugin_repositories_featured: Eliasilyz/EliasDex-2, Eliasilyz/RellBotv2
 
-          # 🧑‍🤝‍🧑 People Section (Followers & Following)
           plugin_people: yes
           plugin_people_limit: 30
           plugin_people_size: 30
-          plugin_people_types: followers, following
+          plugin_people_types: followers
 
           plugin_leetcode: yes
           plugin_leetcode_user: eliasilyz

@@ -17,7 +17,7 @@ jobs:
           base: header, activity, community, metadata, repositories
           
           plugin_repositories: yes
-          plugin_repositories_featured: Eliasilyz/EliasDex-2, Eliasilyz/RellBotv2
+          plugin_repositories_featured: Eliasilyz/finance-analytics-api, Eliasilyz/VaLuLens
 
           plugin_people: yes
           plugin_people_limit: 30

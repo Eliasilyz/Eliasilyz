@@ -18,7 +18,15 @@
 
 [![npm npx](https://img.shields.io/badge/npx-farelhanafi-C12127?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/farelhanafi)
 
-  ![](https://komarev.com/ghpvc/?username=OnlyRein)
+ <p align="center">
+  <a href="https://committers.top/indonesia_private.html">
+    <img src="https://user-badge.committers.top/indonesia_private/Eliasilyz.svg" alt="committers.top private rank" />
+  </a>
+  <a href="https://committers.top/indonesia.html">
+    <img src="https://user-badge.committers.top/indonesia/Eliasilyz.svg" alt="committers.top public rank" />
+  <img src="https://komarev.com/ghpvc/?username=OnlyRein" alt="Profile Views" />
+  </a>
+</p>
   
 </div>
 

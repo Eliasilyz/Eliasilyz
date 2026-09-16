@@ -26,7 +26,7 @@ jobs:
 
           plugin_leetcode: yes
           plugin_leetcode_user: eliasilyz
-          plugin_leetcode_sections: solved, skills
+          plugin_leetcode_sections: solved
 
           plugin_notable: yes
           plugin_notable_indepth: yes
@@ -39,3 +39,4 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 365
+          plugin_wakatime_sections: time, projects, languages, editors, os

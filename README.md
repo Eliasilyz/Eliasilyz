@@ -42,10 +42,6 @@ My work focuses on **full-stack applications, backend systems, and automation**.
   <img src="https://komarev.com/ghpvc/?username=OnlyRein" alt="Profile Views" />
   </a>
 </p>
-  
-</div>
-
-<div align="center">
   <a href="https://saweria.co/rein122"><img src="https://img.shields.io/badge/Saweria-FF5E5B?style=for-the-badge&logo=saweria&logoColor=white"/></a>
   <a href="https://github.com/sponsors/Eliasilyz">
   <img src="https://img.shields.io/badge/Sponsor%20Eliasilyz-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Eliasilyz">
@@ -53,4 +49,6 @@ My work focuses on **full-stack applications, backend systems, and automation**.
   <a href="https://ko-fi.com/eliasilyz"><img src="https://img.shields.io/badge/ko_fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
 
-<img src="metrics.svg" alt="metrics" />
+<p align="center">
+  <img src="./metrics.svg" width="100%" alt="GitHub Metrics">
+</p>

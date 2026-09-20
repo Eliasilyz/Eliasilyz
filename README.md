@@ -53,4 +53,4 @@ My work focuses on **full-stack applications, backend systems, and automation**.
   <a href="https://ko-fi.com/eliasilyz"><img src="https://img.shields.io/badge/ko_fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
 
-![GitHub Metrics](./metrics.svg)
+<img src="metrics.svg" alt="metrics" />

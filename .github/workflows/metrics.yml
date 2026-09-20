@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
           base: header, activity, community, metadata, repositories
-          
+
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes

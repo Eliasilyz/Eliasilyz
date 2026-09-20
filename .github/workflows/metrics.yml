@@ -16,26 +16,6 @@ jobs:
           filename: metrics.svg
           base: header, activity, community, metadata, repositories
           
-          plugin_repositories: yes
-          plugin_repositories_featured: Eliasilyz/finance-analytics-api, Eliasilyz/VaLuLens
-
-          plugin_people: yes
-          plugin_people_limit: 30
-          plugin_people_size: 30
-          plugin_people_types: followers
-
-          plugin_leetcode: yes
-          plugin_leetcode_user: eliasilyz
-          plugin_leetcode_sections: solved, skills
-
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-
-          plugin_pagespeed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://farelhanafi.my.id
-
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 365

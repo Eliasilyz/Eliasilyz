@@ -27,8 +27,6 @@ My work focuses on **full-stack applications, backend systems, and automation**.
 - **Discord:** [Eliaszn](https://discord.com/users/1049584848634912768)
 - **Email:** farellh12@gmai.com
 
-> Build. Document. Improve.
-
 ---
 
 <div aligh="center">
@@ -55,3 +53,6 @@ My work focuses on **full-stack applications, backend systems, and automation**.
   <a href="https://ko-fi.com/eliasilyz"><img src="https://img.shields.io/badge/ko_fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
 </div>
 
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics">
+</p>

@@ -39,6 +39,8 @@ My work focuses on **full-stack applications, backend systems, and automation**.
   </a>
   <a href="https://committers.top/indonesia.html">
     <img src="https://user-badge.committers.top/indonesia/Eliasilyz.svg" alt="committers.top public rank" />
+  </a>
+  <a href="https://committers.top/indonesia.html">
   <img src="https://komarev.com/ghpvc/?username=OnlyRein" alt="Profile Views" />
   </a>
 <div align="center">
